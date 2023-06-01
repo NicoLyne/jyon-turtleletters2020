@@ -11,6 +11,7 @@ def turtleLetter(letter,tur):
         tur.right(90)
         tur.forward(60)
 
+	
     elif letter == "A":
         tur.setheading(0)
         tur.pu()
